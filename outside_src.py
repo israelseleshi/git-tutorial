@@ -1,2 +1,2 @@
 print("outside_src.py")
-print("version3")
+print("version1")
